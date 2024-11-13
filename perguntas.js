@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'sentimentos',
+    'O que é o Amor?',
+    'Amor é uma emoção ou sentimento que leva uma pessoa a desejar o bem a outra pessoa ou a uma coisa.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual mar fica perto da linha do ecuador?',
+     'Banhado pelo Oceano Pacífico, o clima equatoriano varia de quente e úmido ao frio de montanha nos terrenos mais elevados'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Educação Física',
+    'Qual espotes usam uma rede?',
+    'Podem ser citados como exemplos de esportes com rede divisória o voleibol, vôlei de praia, tênis, badminton, pádel, peteca, sepaktakraw, ringo, ringtennis.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz "meu nome é" em Inglês?',
+    'meu nome é - my name is (mai neimi iss)'
 )
