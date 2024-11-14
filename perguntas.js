@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual mar fica perto da linha do ecuador?',
+    'Qual mar fica perto da linha do equador?',
      'Banhado pelo Oceano Pacífico, o clima equatoriano varia de quente e úmido ao frio de montanha nos terrenos mais elevados'
 )
 
